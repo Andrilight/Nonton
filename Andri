@@ -506,7 +506,7 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> MOVIES
+//Collected menampilkan playlist >>> MOVIES
 //========================================================================
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -882,7 +882,7 @@ http://mytv-extra.com:900/t12mgxyb335/9832948789/186853
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> ENTERTAINMENT
+//Collected menampilkan playlist >>> ENTERTAINMENT
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1196,7 +1196,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> NEWS
+//Collected menampilkan playlist >>> NEWS
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1404,7 +1404,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> SPORTS
+//Collected menampilkan playlist >>> SPORTS
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1691,7 +1691,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> KNOWLEDGE
+//Collected menampilkan playlist >>> KNOWLEDGE
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1926,7 +1926,7 @@ https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> LIFESTYLE
+//Collected menampilkan playlist >>> LIFESTYLE
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2138,7 +2138,7 @@ https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> MUSIC
+//Collected menampilkan playlist >>> MUSIC
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2381,7 +2381,7 @@ https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> INTERNATIONAL
+//Collected menampilkan playlist >>> INTERNATIONAL
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2554,7 +2554,7 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> KIDS
+//Collected menampilkan playlist >>> KIDS
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2836,7 +2836,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> RELIGION
+//Collected menampilkan playlist >>> RELIGION
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2964,7 +2964,7 @@ https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> HBO GROUP
+//Collected menampilkan playlist >>> HBO GROUP
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3164,7 +3164,7 @@ http://178.162.225.79:2082/live/Tourobox1-hwpjnTbxA1/d73a4UY6QU/240.ts
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> MOVIES INT
+//Collected menampilkan playlist >>> MOVIES INT
 //========================================================================
 
 #EXTINF:-1 tvg-id="5e8254118601b80007b4b7ae" tvg-name="" group-title="Movies Int" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/amc1.webp",AMC 🇺🇸 
@@ -3310,7 +3310,7 @@ https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> DOUYU MOVIE
+//Collected menampilkan playlist >>> DOUYU MOVIE
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="Douyu Movies",Douyu Movies 01
@@ -3340,7 +3340,7 @@ http://epg.112114.xyz/douyu/20415
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> INDIHOME
+//Collected menampilkan playlist >>> INDIHOME
 //========================================================================
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
@@ -3454,7 +3454,7 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> MALAYSIA
+//Collected menampilkan playlist >>> MALAYSIA
 //========================================================================
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia",TV 1
@@ -3690,7 +3690,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/32
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> SINGAPORE
+//Collected menampilkan playlist >>> SINGAPORE
 //========================================================================
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
@@ -3816,7 +3816,7 @@ https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> JAPAN
+//Collected menampilkan playlist >>> JAPAN
 //========================================================================
 
 #EXTINF:-1 group-title="Japan" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
@@ -4003,7 +4003,7 @@ https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> SPORT EUROPE
+//Collected menampilkan playlist >>> SPORT EUROPE
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Sport Europe",TNT Sports 1 UK
@@ -4707,7 +4707,7 @@ http://p1.cvtv.xyz/E2?token=live
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> SPORT INT
+//Collected  menampilkan playlist >>> SPORT INT
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Sport Int",CBS Sports HQ (PLUTO)
@@ -4773,7 +4773,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> BEIN SPORT
+//Collected menampilkan playlist >>> BEIN SPORT
 //========================================================================
 
 #EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="Bein Sport",beIN Sports MENA English 1
@@ -4845,7 +4845,7 @@ https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|referer=https://lewblivehd
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> DAZN SPORT
+//Collected menampilkan playlist >>> DAZN SPORT
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="Dazn Sport", DAZN 1 🇵🇹
@@ -4995,7 +4995,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> ELEVEN SPORT
+//Collected  menampilkan playlist >>> ELEVEN SPORT
 //========================================================================
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -5053,7 +5053,7 @@ http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1515.ts
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> SKY SPORT
+//Collected  menampilkan playlist >>> SKY SPORT
 //========================================================================
 
 #EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="Sky Sport",Sky Sports Football UK
@@ -5431,7 +5431,7 @@ https://webhdrunns.mizhls.ru/lb/premium360/index.m3u8|referer=https://lewblivehd
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> SUPERSPORT
+//Collected menampilkan playlist >>> SUPERSPORT
 //========================================================================
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="Supersport",SS PSL
@@ -5468,7 +5468,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8|referer=https://weblive
 https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> SKY CINEMA
+//Collected menampilkan playlist >>> SKY CINEMA
 //========================================================================
 
 #EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="Sky Cinema",Sky Cinema Premiere UK
@@ -5512,7 +5512,7 @@ https://webhdrunns.mizhls.ru/lb/premium868/index.m3u8|referer=https://lewblivehd
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> SAMSUNG TV
+//Collected  menampilkan playlist >>> SAMSUNG TV
 //========================================================================
 
 #EXTINF:-1 tvg-id="KRBD1400001ED" tvg-chno="501" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" group-title="Samsung TV KR" , Yonhap News TV
@@ -5823,6 +5823,10 @@ http://j.mp/2bFRyBF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFREcc
 
+
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w116_and_h174_face/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg", group-title="FILM REQUEST",  ALIEN ROMULUS 2024
+https://yhqd4yg264.pradoi.com/hls2/01/05131/tmngkf1m7nfa_h/index-v1-a1.m3u8?t=tDeNjq-lqGc_tKm-pzFW0y-ztwN-MbPa0sZ1Ob9HXLI&s=1729118910&e=129600&f=25677872&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=134651
 
 
 
