@@ -1859,11 +1859,10 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/15/Alien.Romul
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/11/Never.Let.Go.2024.mp4/tracks-v1a1/mono.m3u8
 
 
-
 >>>InJourney
 
-#EXTINF:-1 tvg-logo="https://injourney.id/assets/airports-business-logo-bK5fIp14.png " group-title="InJourney" InJourney
-http://https://vod.cnbcindonesia.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/CNBCIndonesia/2024/09/17/cd00201a4cc94ef8bb4c24b5a94936e5.smil/chunklist_w849704159_b1604059.m3u8
+#EXTINF:-1 tvg-logo="https://injourney.id/assets/airports-business-logo-bK5fIp14.png" group-title="InJourney", InJourney
+https://vod.cnbcindonesia.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/CNBCIndonesia/2024/09/17/cd00201a4cc94ef8bb4c24b5a94936e5.smil/chunklist_w849704159_b1604059.m3u8
 
 
 
