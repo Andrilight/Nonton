@@ -1006,19 +1006,23 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4a5GN-uglCAEo5ifjQ4Lv9j3SNOWnzYSxCjjaVqTfzFSOzphn9hXVAQMaHqXahuzPntXuB2jqHyeeVlfgDnVcfxRHe5RAkYTiv5_20BsfC01r05YMpxxS9SBsltBNaOnmM0inazGetRnUqjIHB_4RSMekL_CkgNt2whkvwHQ-9Ir8ctx24iRvKCVHnBwy/s340/hbo.png" group-title="Movies",HBO 
-#http://xtv.ooo:8080/user9940/9940user/350955
+http://xtv.ooo:8080/user9940/9940user/350955
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101113
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw058AIuxHj5juL2DuImrZLgjLOIXA16EgGzYCqvSSR8H6n-pSLS-iSf0S8BClXEb1kborPnEeg45TUMQnOF5WUemG37rQiXvEoI3kQO1uL2fyNbI0hu3cXFaU9GqstmsEk_0-Ui7wXYDlF6U1-0kf6zmnb_8oTt_-7SHaUFMslaJX14o4QO0UDYF0OviX/s340/hbo_hits.png" group-title="Movies",HBO Hits 
-#http://xtv.ooo:8080/user9940/9940user/350957
+http://xtv.ooo:8080/user9940/9940user/350957
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101115
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVK_3ZT74TEWS_X0ir84bKO97h0JNlimenVd0f1QCisBcwAnCEJHpvIfCWVNFRLoN_TbiDEaIST8AS1PWKsbKt5yH1yYOTSRSBpeqHZXHbnldH7XU7SVD-sp198NlhlwuUWmGefH4wMKCfvhj7j9MIZ1WCDXb-lLn_KT6Vo496q_RrKZUbO5GnsdFDlFvL/s340/hbo_family.png" group-title="Movies",HBO Family 
-#http://xtv.ooo:8080/user9940/9940user/350956
+http://xtv.ooo:8080/user9940/9940user/350956
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101114
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj48vtt3f1ePD9iz3eXzrPrx9IPA4B_uCH2Bk11vEwGAiBqPg5jU-x71_ds51IcuBiW6uxFg3dHI1SetjwT7Shs-LCfHPaPSX4dMTXoyFJYBC3QeToPZU_vk0dJ_Y1UqxRe9-_HchN5vPoLK2-I9MWUhUYJq1aAdGV9_7Q9FUBQjdSngYVrmPQ7g7vHdQyi/s340/hbo_sign.png" group-title="Movies",HBO Signature
-#http://xtv.ooo:8080/user9940/9940user/350958
+http://xtv.ooo:8080/user9940/9940user/350958
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101116
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJmiXCHdiF8MiPpRUhEdxMTKTB9zuB7gqT9JcW5_Onzcavb01K_bSfavy7_kTHv-FffO2YrRSyq7QWUPGn01B1r-ogUvfQdJ3w8xsGiQH8cGdxPWZDA3MKtXuAWvM5n81u89WwlQoTrNuwHkg5mrLStxOYm9d2ga0oinngMcYV7z9-gDT0TEaJnAv74-fI/s340/cinemax.png" group-title="Movies",Cinemax 
-#http://xtv.ooo:8080/user9940/9940user/350922
+http://xtv.ooo:8080/user9940/9940user/350922
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101079
 
 #EXTINF:-1 xui-id="39920" tvg-id="WarnerTV.MACAN" tvg-name="Warner Bros" tvg-logo="https://dl.dropbox.com/scl/fi/8987nj4z4g3qvb7xu4fde/warner.png?rlkey=aeh8fnm6qoklxo7shsld1v1rn&dl=0" group-title="Movies",Warner Tv (Auto)
@@ -1027,21 +1031,17 @@ http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101079
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-
 #EXTINF:0  group-title="Movies" tvg-logo="https://dl.dropbox.com/scl/fi/djrmu0jn2sso4d8t69geb/hbo2.png?rlkey=0l5rp62sya4wiprsp2v7s5kn8&dl=0",HBO2
-#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/3217
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/3217
 
 #EXTINF:-1  group-title="Movies" tvg-logo="https://dl.dropbox.com/scl/fi/nn4paigj9eimbku6bilnw/hbo-extreme.png?rlkey=3wabgtdxmdsxt5yij4f9n843m&dl=0",HBO Extreme
-#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/148927
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/148927
 
 #EXTINF:-1  group-title="Movies" tvg-logo="https://dl.dropbox.com/scl/fi/5gr088p7hq9ywgjbplobg/hbo-mundi.png?rlkey=28wuxiok0zexnc1m8yulvluhc&dl=0",HBO Mundi
-#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/226015
-
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/226015
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/uqqpjbgj1t6i1o6me2m4v/akycinema.png?rlkey=tdqzu2z6xh7rujbip5w72kf9r&dl=0" group-title="Movies",Sky Cinema Action
 #http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/913
-
-
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeJ4y4Jw8ivecrw2WZZhPo7VvNfGShHVrG4i3aRBOOpPMFCpCesrO6dc38JSlb1oHwfuacyKbO1kADox63v6jdJ1tai6uSJU72ltrFbAM4Fo2ayZNjcmCAbYn2vcdAsvKLir0Kj07CvLolKNJd92XvTEd6lhTWgBBadfGmruUYeLE9T1x_XT0UkF3EiUk1/s340/hits_movies.png" group-title="Movies",Hits Movies 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1077,19 +1077,23 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|Ref
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0" group-title="Singapore",HBO (Sg)
-#https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&dl=0" group-title="Singapore",HBO Hits (Sg)
-#https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://dl.dropbox.com/scl/fi/huvb654fboyfnebvnzghn/hbo_family.png?rlkey=sr0deor1pxp0bxgm3x6wve1cz&dl=0" group-title="Singapore",HBO Family (Sg)
-#https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://dl.dropbox.com/scl/fi/rpfe8l6bizfcn3hkvkow6/hbo-signature.png?rlkey=dano4jnm0214i6163flo4akb6&dl=0" group-title="Singapore",HBO Signature (Sg)
-#https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://dl.dropbox.com/scl/fi/v6eppmxfwsqxc521063xk/animax.png?rlkey=w40ostqs1ql06z96rfy8zms97&dl=0" group-title="Singapore",Animax (Sg)
