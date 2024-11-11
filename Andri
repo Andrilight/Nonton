@@ -1124,21 +1124,25 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4a5GN-uglCAEo5ifjQ4Lv9j3SNOWnzYSxCjjaVqTfzFSOzphn9hXVAQMaHqXahuzPntXuB2jqHyeeVlfgDnVcfxRHe5RAkYTiv5_20BsfC01r05YMpxxS9SBsltBNaOnmM0inazGetRnUqjIHB_4RSMekL_CkgNt2whkvwHQ-9Ir8ctx24iRvKCVHnBwy/s340/hbo.png" group-title="Movies",HBO 
-#http://xtv.ooo:8080/user9940/9940user/350955
+http://xtv.ooo:8080/user9940/9940user/350955
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101113
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw058AIuxHj5juL2DuImrZLgjLOIXA16EgGzYCqvSSR8H6n-pSLS-iSf0S8BClXEb1kborPnEeg45TUMQnOF5WUemG37rQiXvEoI3kQO1uL2fyNbI0hu3cXFaU9GqstmsEk_0-Ui7wXYDlF6U1-0kf6zmnb_8oTt_-7SHaUFMslaJX14o4QO0UDYF0OviX/s340/hbo_hits.png" group-title="Movies",HBO Hits 
-#http://xtv.ooo:8080/user9940/9940user/350957
+http://xtv.ooo:8080/user9940/9940user/350957
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101115
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVK_3ZT74TEWS_X0ir84bKO97h0JNlimenVd0f1QCisBcwAnCEJHpvIfCWVNFRLoN_TbiDEaIST8AS1PWKsbKt5yH1yYOTSRSBpeqHZXHbnldH7XU7SVD-sp198NlhlwuUWmGefH4wMKCfvhj7j9MIZ1WCDXb-lLn_KT6Vo496q_RrKZUbO5GnsdFDlFvL/s340/hbo_family.png" group-title="Movies",HBO Family 
-#http://xtv.ooo:8080/user9940/9940user/350956
+http://xtv.ooo:8080/user9940/9940user/350956
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101114
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj48vtt3f1ePD9iz3eXzrPrx9IPA4B_uCH2Bk11vEwGAiBqPg5jU-x71_ds51IcuBiW6uxFg3dHI1SetjwT7Shs-LCfHPaPSX4dMTXoyFJYBC3QeToPZU_vk0dJ_Y1UqxRe9-_HchN5vPoLK2-I9MWUhUYJq1aAdGV9_7Q9FUBQjdSngYVrmPQ7g7vHdQyi/s340/hbo_sign.png" group-title="Movies",HBO Signature
-#http://xtv.ooo:8080/user9940/9940user/350958
+http://xtv.ooo:8080/user9940/9940user/350958
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101116
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJmiXCHdiF8MiPpRUhEdxMTKTB9zuB7gqT9JcW5_Onzcavb01K_bSfavy7_kTHv-FffO2YrRSyq7QWUPGn01B1r-ogUvfQdJ3w8xsGiQH8cGdxPWZDA3MKtXuAWvM5n81u89WwlQoTrNuwHkg5mrLStxOYm9d2ga0oinngMcYV7z9-gDT0TEaJnAv74-fI/s340/cinemax.png" group-title="Movies",Cinemax 
-#http://xtv.ooo:8080/user9940/9940user/350922
+http://xtv.ooo:8080/user9940/9940user/350922
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101079
 
 #EXTINF:-1 xui-id="39920" tvg-id="WarnerTV.MACAN" tvg-name="Warner Bros" tvg-logo="https://dl.dropbox.com/scl/fi/8987nj4z4g3qvb7xu4fde/warner.png?rlkey=aeh8fnm6qoklxo7shsld1v1rn&dl=0" group-title="Movies",Warner Tv (Auto)
@@ -1146,7 +1150,6 @@ http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101079
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-
 
 #EXTINF:0  group-title="Movies" tvg-logo="https://dl.dropbox.com/scl/fi/djrmu0jn2sso4d8t69geb/hbo2.png?rlkey=0l5rp62sya4wiprsp2v7s5kn8&dl=0",HBO2
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/3217
