@@ -2550,62 +2550,62 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-505/stream.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://www.googleapis.com/drive/v3/files/1WvlG6DbGnoXsMImt8kNs8Sg8HGVLEcvv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports", ARENA Premier League 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sports", ARENA Premier League 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://www.googleapis.com/drive/v3/files/1WvlG6DbGnoXsMImt8kNs8Sg8HGVLEcvv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports", ARENA PREMIUM 1 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sports", ARENA PREMIUM 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://www.googleapis.com/drive/v3/files/1WvlG6DbGnoXsMImt8kNs8Sg8HGVLEcvv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports", ARENA PREMIUM 2 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sports", ARENA PREMIUM 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://www.googleapis.com/drive/v3/files/1WvlG6DbGnoXsMImt8kNs8Sg8HGVLEcvv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports", ARENA PREMIUM 3 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sports", ARENA PREMIUM 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://www.googleapis.com/drive/v3/files/1WvlG6DbGnoXsMImt8kNs8Sg8HGVLEcvv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports", ARENA 1 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sports", ARENA 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://www.googleapis.com/drive/v3/files/1WvlG6DbGnoXsMImt8kNs8Sg8HGVLEcvv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports", ARENA 2 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sports", ARENA 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://www.googleapis.com/drive/v3/files/1WvlG6DbGnoXsMImt8kNs8Sg8HGVLEcvv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports", ARENA 3 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sports", ARENA 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://www.googleapis.com/drive/v3/files/1WvlG6DbGnoXsMImt8kNs8Sg8HGVLEcvv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports", ARENA 4 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sports", ARENA 4 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://www.googleapis.com/drive/v3/files/1WvlG6DbGnoXsMImt8kNs8Sg8HGVLEcvv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports", ARENA 5 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sports", ARENA 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://www.googleapis.com/drive/v3/files/1WvlG6DbGnoXsMImt8kNs8Sg8HGVLEcvv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports", ARENA 6
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sports", ARENA 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://www.googleapis.com/drive/v3/files/1WvlG6DbGnoXsMImt8kNs8Sg8HGVLEcvv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports", ARENA 1 X 2 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sports", ARENA 1 X 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://www.googleapis.com/drive/v3/files/1WvlG6DbGnoXsMImt8kNs8Sg8HGVLEcvv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="Sports", ARENA FIGHT 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sports", ARENA FIGHT 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
