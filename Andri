@@ -2071,13 +2071,12 @@ http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/240.ts
 http://178.162.225.79:2082/live/Tourobox1-hwpjnTbxA1/d73a4UY6QU/240.ts
 
 
-=====SPORTS=====
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   SPORTS   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 #EXTINF:-1 tvg-id="" tvg-name="SPO TV 1" tvg-logo="https://dl.dropbox.com/scl/fi/29xcfw9o9m8z7nctgihsk/spotv1.png?rlkey=2oo4x722lorrpyl299h9dujuz&st=qzrys9bh&dl=0" group-title="Sports",SPO TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id/
-
 
 #EXTINF:-1 tvg-id="" tvg-name="SPO TV 2" tvg-logo="https://dl.dropbox.com/scl/fi/x7q101m677z0yw3zgpbf0/spotv2.png?rlkey=hz91ima3flb84p3qvfnkm0ghz&st=15iabvnw&dl=0" group-title="Sports",SPO TV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2300,8 +2299,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
-
-
 #EXTINF:-1 tvg-id="DAZN1HD.uk" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="Sports" , DAZN 1 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2329,7 +2326,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-048/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-047/stream.mpd
-
 
 #EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://dl.dropbox.com/scl/fi/wh9k5vsgqua5mqr8hhcel/dazneleven1.png?rlkey=qq8ryu5m5kv1zcl1382fqs6uj&st=8q2n535u&dl=0" group-title="Sports" , DAZN ELEVEN PRO LEAGUE 1 à&#185;&#144;Â&#159;Â&#135;à&#184;&#147;à&#185;&#144;Â&#159;Â&#135;à&#184;&#145;
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
@@ -2361,7 +2357,6 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Mani
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd
-
 
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://dl.dropbox.com/scl/fi/diwyin8sk9w7if4enilb9/daznsports.png?rlkey=t6i1qeq0spao3nl0jtny1gt8s&st=synv78zr&dl=0" group-title="Sports" , DAZN LaLiga 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
@@ -2446,7 +2441,6 @@ http://xtv.ooo:8080/83212539/43153928/353563
 #EXTINF:-1 tvg-id="SSC4HD.sa" tvg-name="SSC 4 HD" tvg-shift="3" tvg-logo="https://dl.dropbox.com/scl/fi/ptw3jwphor9ozl8flurwx/ssc4.png?rlkey=0icht4aasy6vaqoffegxkb213&dl=0" group-title="Sports",SSC 4 HD
 http://xtv.ooo:8080/83212539/43153928/353564
 
-
 #EXTINF:-1 tvg-id="SSC5HD.sa" tvg-name="SSC 5 HD" tvg-shift="3" tvg-logo="https://dl.dropbox.com/scl/fi/88ju3kiioa6dlrz33zpi5/ssc5.png?rlkey=thwud9agt0v08c6km7wxgapwj&dl=0" group-title="Sports",SSC 5 HD
 http://xtv.ooo:8080/83212539/43153928/353565
 
@@ -2527,7 +2521,7 @@ http://xtv.ooo:8080/83212539/43153928/348358
 http://xtv.ooo:8080/83212539/43153928/348359
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw5LMwJcueG52yPyBbYNXIVsQNM9lG4pIP4ZsDAMwEx7Im6GfbAFgIFInAoNqeTtAzPDUdq-M8OKRQUzPt4zluuSOvCeRoNvGeWrPkq_B3eOin8znLo3g-EGvy0dVlGc2PuqV_JpK7P_X1CUVU4RcBeLoAvW7vCaWHYoux7N97Tk2oFw0Z2FUJyigxb7pF/s340/bein%20xtra.png" group-title="Sports",BeIN Sports Xtra
-#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp1Ri9rXkkppP0x5U5ka3ERsKVBcr6caiOoZ433K0s7S77MlWNjJ1Vu5hupBQlQNYNhKqeCRNt2km1gGmrIrcvbgCIFXMqoAHeS0s2sk6t_9DRDSnluvhKFiHdjL04KsbqR2b2jMXwiCU/s720/NBA-Poster.png" group-title="Sports",NBA TV (Auto)
@@ -2636,7 +2630,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwT046V42O_1aaU6gzSlIM0ZN9Dp7Mwpfz0YORoGRQcuY-S7aCCmJeiK62YxlZlQAl3FaoYCth3x-aafpr8yP-4KyO4hi0A-1JsBUno4HLMIs0hR4DY2nTCMbIR2m6tfcoka4SATMy3T03za05vKDssHuba8X-aaAs6JZcXTIYbCS8Lvoq4s5GVPZzuTA5/s340/Motorvision.png" group-title="Sports" ,MOTORVISIONTV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlEkeDFQxIPP3O5u6-NsTTOcN0P1ndhozlhoAHDIFwxqmvU5fTsqQydor8ecSHphGIglOoI1gc-l0Gl43RBErHapdgzv1k3y7rEnORUcQq4fxhmlIv9V8XvqczznTAtEWhWHaY0LwZIOofBBB3_g1ef2OwUF_D24zRFz4ERcuZz1iaRzu1J4m1tehIFgpZ/s340/billiardtv.png",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
