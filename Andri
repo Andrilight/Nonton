@@ -2647,12 +2647,14 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Andrilight/Nonton/refs/heads/main/Al3.png" group-title="FILM REQUEST",ALE_🇲🇨
 https://raw.githubusercontent.com/Andrilight/Nonton/refs/heads/main/andrilight%20Entertainment.mp4
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w116_and_h174_face/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg" group-title="FILM REQUEST",  ALIEN ROMULUS 2024
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w116_and_h174_face/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg" group-title="FILM REQUEST", ALIEN ROMULUS 2024
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/15/Alien.Romulus.2024.mp4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Never_Let_Go_theatrical_poster.jpg" group-title="FILM REQUEST",Never Let Go 2024
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Never_Let_Go_theatrical_poster.jpg" group-title="FILM REQUEST", Never Let Go 2024
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/11/Never.Let.Go.2024.mp4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1G978IJ2KDPl4Z4icZrxZTozb1v.jpg" group-title="FILM REQUEST",Godzilla x Kong: The New Empire (2024)
+https://cdn.turboviplay.com/data2/6663bbd7b707f/6663bbd7b707f.m3u8
 
 
 #EXTM3U billed-msg="Source Playlist Ini Gratis"
