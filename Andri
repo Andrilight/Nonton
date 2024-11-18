@@ -2631,8 +2631,11 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/11/Never.Let.G
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1G978IJ2KDPl4Z4icZrxZTozb1v.jpg" group-title="FILM REQUEST",Godzilla x Kong: The New Empire (2024)
 https://cdn.turboviplay.com/data2/6663bbd7b707f/6663bbd7b707f.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-my-boo-2024-lk21-d21.jpg.webp" group-title="FILM REQUEST", My Boo (2024)
-https://cdn3.turboviplay.com/data1/670b6c4e9ff0c/670b6c4e9ff0c720.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM REQUEST" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ac/The_Age_of_Adaline_film_poste.png",The age of adaline 2015
+https://stream.hownetwork.xyz/xxx/the-age-of-adaline-2015-bluray/3/480.m3u8
+
+
 
 #EXTM3U billed-msg="Source Playlist Ini Gratis"
 #EXTM3U billed-msg="Andri Light"
