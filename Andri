@@ -2667,7 +2667,9 @@ https://cdn.turboviplay.com/data2/6663bbd7b707f/6663bbd7b707f.m3u8
 #EXTINF:-1 type="" group-title="FILM REQUEST" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ac/The_Age_of_Adaline_film_poste.png",The age of adaline 2015
 https://stream.hownetwork.xyz/xxx/the-age-of-adaline-2015-bluray/3/480.m3u8
 
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="FILM REQUEST" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2016/05/film-cars-2-2011.jpg",Cars 2 (2011)
+https://stream.hownetwork.xyz/yyy/cars-2-2011-bluray/6/480.m3u8
 
 #EXTM3U billed-msg="Source Playlist Ini Gratis"
 #EXTM3U billed-msg="Andri Light"
