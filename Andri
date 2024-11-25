@@ -527,7 +527,11 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 https://cdn14jtedge.indihometv.com/atm/hlsv3/atv/atv.m3u8?c
 
 
- >>> MOVIES
+
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>      MOVIES       <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -898,39 +902,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 https://cdn13jtedge.indihometv.com/atm/hlsv3/zbioskop/zbioskop.m3u8
 
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN014:BeIN Movies 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN014 BeIN Movies 1.png" group-title="Movies",BeIN Movies 1
-http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/2128.ts
-
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN015:BeIN Movies 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN015 BeIN Movies 2.png" group-title="Movies",BeIN Movies 2
-http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/2127.ts
-
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN016:BeIN Movies 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN016 BeIN Movies 3.png" group-title="Movies",BeIN Movies 3
-http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/2126.ts
-
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN017:BeIN Movies 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN017 BeIN Movies 4.png" group-title="Movies",BeIN Movies 4
-http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/2125.ts
-
-#EXTINF:-1 tvg-id="mnet.za" tvg-name="DSTV| M-NET HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",DSTV| M-NET HD
-http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/60785.ts
-http://mytv-extra.com:900/t12mgxyb335/9832948789/14582
-
-#EXTINF:-1 tvg-id="mmovies1.za" tvg-name="DSTV| M-NET MOVIES 1 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",DSTV| M-NET MOVIES 1 HD
-http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/60787.ts
-http://mytv-extra.com:900/t12mgxyb335/9832948789/14583
-
-#EXTINF:-1 tvg-id="mmovies2.za" tvg-name="DSTV| M-NET MOVIES 2 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",DSTV| M-NET MOVIES 2 HD
-http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/60788.ts
-http://mytv-extra.com:900/t12mgxyb335/9832948789/14580
-
-#EXTINF:-1 tvg-id="mmovies3.za" tvg-name="DSTV| M-NET MOVIES 3 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",DSTV| M-NET MOVIES 3 HD
-http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/60789.ts
-http://mytv-extra.com:900/t12mgxyb335/9832948789/186854
-
-#EXTINF:-1 tvg-id="mmovies4.za" tvg-name="DSTV| M-NET MOVIES 4 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",DSTV| M-NET MOVIES 4 HD
-http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/60790.ts
-http://mytv-extra.com:900/t12mgxyb335/9832948789/186853
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 group-title="Movies" tvg-id="hboasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0",HBO (Auto)
@@ -983,26 +954,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4a5GN-uglCAEo5ifjQ4Lv9j3SNOWnzYSxCjjaVqTfzFSOzphn9hXVAQMaHqXahuzPntXuB2jqHyeeVlfgDnVcfxRHe5RAkYTiv5_20BsfC01r05YMpxxS9SBsltBNaOnmM0inazGetRnUqjIHB_4RSMekL_CkgNt2whkvwHQ-9Ir8ctx24iRvKCVHnBwy/s340/hbo.png" group-title="Movies",HBO 
-http://xtv.ooo:8080/user9940/9940user/350955
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101113
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw058AIuxHj5juL2DuImrZLgjLOIXA16EgGzYCqvSSR8H6n-pSLS-iSf0S8BClXEb1kborPnEeg45TUMQnOF5WUemG37rQiXvEoI3kQO1uL2fyNbI0hu3cXFaU9GqstmsEk_0-Ui7wXYDlF6U1-0kf6zmnb_8oTt_-7SHaUFMslaJX14o4QO0UDYF0OviX/s340/hbo_hits.png" group-title="Movies",HBO Hits 
-http://xtv.ooo:8080/user9940/9940user/350957
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101115
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVK_3ZT74TEWS_X0ir84bKO97h0JNlimenVd0f1QCisBcwAnCEJHpvIfCWVNFRLoN_TbiDEaIST8AS1PWKsbKt5yH1yYOTSRSBpeqHZXHbnldH7XU7SVD-sp198NlhlwuUWmGefH4wMKCfvhj7j9MIZ1WCDXb-lLn_KT6Vo496q_RrKZUbO5GnsdFDlFvL/s340/hbo_family.png" group-title="Movies",HBO Family 
-http://xtv.ooo:8080/user9940/9940user/350956
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101114
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj48vtt3f1ePD9iz3eXzrPrx9IPA4B_uCH2Bk11vEwGAiBqPg5jU-x71_ds51IcuBiW6uxFg3dHI1SetjwT7Shs-LCfHPaPSX4dMTXoyFJYBC3QeToPZU_vk0dJ_Y1UqxRe9-_HchN5vPoLK2-I9MWUhUYJq1aAdGV9_7Q9FUBQjdSngYVrmPQ7g7vHdQyi/s340/hbo_sign.png" group-title="Movies",HBO Signature
-http://xtv.ooo:8080/user9940/9940user/350958
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101116
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJmiXCHdiF8MiPpRUhEdxMTKTB9zuB7gqT9JcW5_Onzcavb01K_bSfavy7_kTHv-FffO2YrRSyq7QWUPGn01B1r-ogUvfQdJ3w8xsGiQH8cGdxPWZDA3MKtXuAWvM5n81u89WwlQoTrNuwHkg5mrLStxOYm9d2ga0oinngMcYV7z9-gDT0TEaJnAv74-fI/s340/cinemax.png" group-title="Movies",Cinemax 
-http://xtv.ooo:8080/user9940/9940user/350922
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101079
-
 #EXTINF:-1 xui-id="39920" tvg-id="WarnerTV.MACAN" tvg-name="Warner Bros" tvg-logo="https://dl.dropbox.com/scl/fi/8987nj4z4g3qvb7xu4fde/warner.png?rlkey=aeh8fnm6qoklxo7shsld1v1rn&dl=0" group-title="Movies",Warner Tv (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
@@ -1011,15 +962,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 
 #EXTINF:0  group-title="Movies" tvg-logo="https://dl.dropbox.com/scl/fi/djrmu0jn2sso4d8t69geb/hbo2.png?rlkey=0l5rp62sya4wiprsp2v7s5kn8&dl=0",HBO2
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/3217
-
-#EXTINF:-1  group-title="Movies" tvg-logo="https://dl.dropbox.com/scl/fi/nn4paigj9eimbku6bilnw/hbo-extreme.png?rlkey=3wabgtdxmdsxt5yij4f9n843m&dl=0",HBO Extreme
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/148927
-
-#EXTINF:-1  group-title="Movies" tvg-logo="https://dl.dropbox.com/scl/fi/5gr088p7hq9ywgjbplobg/hbo-mundi.png?rlkey=28wuxiok0zexnc1m8yulvluhc&dl=0",HBO Mundi
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/226015
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/uqqpjbgj1t6i1o6me2m4v/akycinema.png?rlkey=tdqzu2z6xh7rujbip5w72kf9r&dl=0" group-title="Movies",Sky Cinema Action
-#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/913
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeJ4y4Jw8ivecrw2WZZhPo7VvNfGShHVrG4i3aRBOOpPMFCpCesrO6dc38JSlb1oHwfuacyKbO1kADox63v6jdJ1tai6uSJU72ltrFbAM4Fo2ayZNjcmCAbYn2vcdAsvKLir0Kj07CvLolKNJd92XvTEd6lhTWgBBadfGmruUYeLE9T1x_XT0UkF3EiUk1/s340/hits_movies.png" group-title="Movies",Hits Movies 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1116,7 +1058,11 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/148927
 #EXTINF:-1  group-title="Movies" tvg-logo="https://dl.dropbox.com/scl/fi/5gr088p7hq9ywgjbplobg/hbo-mundi.png?rlkey=28wuxiok0zexnc1m8yulvluhc&dl=0",HBO Mundi
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/226015
 
+
+
 >>>>>>>>>>>>>>>>>>>>>>>> INDIHOME   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",Tvn Movies (INDI)
 https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
@@ -1284,7 +1230,12 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
 https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 
->>> ENTERTAINMENT
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>         ENTERTAINMENT   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<,
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -1559,45 +1510,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606f
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_seru_small.png" group-title="Entertainment",Seru Channel (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Entertainment",ET (PLUTO)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png" group-title="Entertainment",CMT Pluto TV (PLUTO)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL (PLUTO)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG.png" group-title="Entertainment",Movie Favorites By Lifetime (PLUTO)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png" group-title="Entertainment",Hallmark Movies & More (PLUTO)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png" group-title="Entertainment",Paramount+ Picks (PLUTO)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" group-title="Entertainment",IGN (PLUTO)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65775e07dfed030008cb3f47/colorLogoPNG.png" group-title="Entertainment",4UV (PLUTO)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775e07dfed030008cb3f47/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/700470249162825730/7o8nGc8n_400x400.jpg",Made in Hollywood 🟠
-https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/axstv_artwork_horizontal.jpg" group-title="Entertainment",AXS TV Now (PLEX)
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fx4ZTzW/abctv.png" group-title="Entertainment",ABC TV 🇦🇺
-https://c.mjh.nz/abc-nsw.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",Universal TV
-http://dzcdn.vood.top:80/hls/742_.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZGL0S1S/skyopenplus1.png" group-title="Entertainment",Sky OPEN+1 🇳🇿
-https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://www.etonline.com/img/favicons/apple-icon-180x180.png" group-title="Entertainment",ET Live (SamsungTV)
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live;imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.etonline.com/live&imafw__fw_did=tifa:%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D
@@ -1619,7 +1531,11 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
 
+
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> KNOWLEDGE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
