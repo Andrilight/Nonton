@@ -2988,6 +2988,36 @@ https://stream.hownetwork.xyz/yyy/cars-2-2011-bluray/6/480.m3u8
 #EXTINF:-1 type="" group-title="FILM REQUEST" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2017/07/film-cars-3-2017-1.jpg",Cars 3 (2017)
 https://stream.hownetwork.xyz/yyy/car-3-2017-bluray/6/480.m3u8
 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast1.png" group-title="Film Request1",The Fast and The Furious 2001
+https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/The%20Fast%20and%20Furious%202001.m3u8
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast3.png" group-title="Film Request1",2 Fast 2 Furious 2003
+https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/2%20Fast%202%20Furious%202003.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg" group-title="Film Request1", The Fast and the Furious: Tokyo Drift 2006
+https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/The%20Fast%20and%20the%20Furious%20Tokyo%20Drift%202006.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg" group-title="Film Request1", Fast and Furious 2009
+https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/Fast%20and%20Furious%202009.m3u8
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast6.png" group-title="Film Request1",Fast Furious Five 2011
+https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/Fast%20Five%202011.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg" group-title="Film Request1", Fast and Furious 6 2013
+https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/Fast%20%26%20Furious%206%202013.m3u8
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast9.png" group-title="Film Request1",Furious 7 2015
+https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/Furious%207%202015.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="Film Request1", The Fate Of The Furious 2017
+https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/The%20Fate%20of%20the%20Furious%202017.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.drakor.in/gambar/Rrmfxr2x.jpg" group-title="Film Request1",F9 Fast and Furious 9 : The Fast Saga 2021
+https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/F9%20The%20Fast%20Saga%202021.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/fashion-jobs.biz/wp-content/uploads/2023/05/1E5baAaEse26fej7uHcjOgEE2t2.jpg" group-title="Film Request1",Fast X 2023
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/05/07/task1/9e9c7b2fa06358e6861c97d141f9a4a9/playlist.m3u8
+
 
 
 
