@@ -1,3 +1,4 @@
+
 <html>
 <head>
     <meta charset="UTF-8">
@@ -9,10 +10,16 @@
 <body>
     <h1>Andrilight Player</h1>
     <video id="video" 
-           width='480px' height='360px' controls autoplay
-           src="https://atcs-bptj.dephub.go.id/camera/gadog.m3u8" type="application/x-mpegURL">
+		   class="video-js"
+           controls
+           preload="autoplay"
+           width="640"
+           height="264"
+           controls 
+		   data-setup="{}"
+           src="https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/15/Alien.Romulus.2024.mp4/tracks-v1a1/mono.m3u8" type="application/extm3uURL">
     </video>
-    <h2>gadog<h2>
+    <h2>Power by Andrilight<h2>
     <script>
         if (Hls.isSupported()) {
           var video = document.getElementById('video');
