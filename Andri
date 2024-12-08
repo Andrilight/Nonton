@@ -1023,162 +1023,270 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|Ref
 
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",Tvn Movies (INDI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",FIGHT SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/atm/hlsv3/indikids/indikids.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13",RODJA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",GALAXY PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",GALAXY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png",CELESTIAL MOVIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",MY CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/mycinema/index.m3u8?c
+
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",CINEMAWORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13",DUNIA LAIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13",ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/kungfutv/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/zhejiang/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_shenzen_small.png",SHENZEN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/shenzen/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png",TECHSTORM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png",CRIME INVESTIGATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/hg/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICKJR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_net_ver1.png",NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_duniaanak_small1.png?v=2.0.0.13",DUNIA ANAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 
-#EXTINF:-1 group-title="Indihome" tvg-logo="",TVOne
+#EXTINF:-1 group-title="Indihome" tvg-logo="https://grafologiindonesia.com/wp-content/uploads/2016/05/Logo-TvOne.jpg",TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdngb196.indihometv.com/atm/hlsv3/tvone/tvone.m3u8?c
 https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
 
@@ -2713,7 +2821,7 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Andrilight/Nonton/refs/heads/main/Al3.png" group-title="Music Test",Nancy Ajram - Enta Eih
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nancy_Ajram_signing_ceremony.jpg/330px-Nancy_Ajram_signing_ceremony.jpg" group-title="Music Test",Nancy Ajram - Enta Eih
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
 https://vod3.cf.dmcdn.net/sec2(bRJ0AwzLc8sOeahyrYvz9aztgQOl-GdSqnmnO6L29ZLhVI1ymhMUFktLM53a4EFFPoL2ElU4XvuRWJIeaYi9_gLUELoS0hr05wwFfwWNYRgFBntFUTtT7nfyw-3XeLQE_COwT8gwG8ytIT38ycwsPf8cW-ez1KZNAcvzzzumaNI)/video/127/941/210149721_mp4_h264_aac_hq.m3u8
@@ -2727,7 +2835,8 @@ https://vod3.cf.dmcdn.net/sec2(bRJ0AwzLc8sOeahyrYvz9aztgQOl-GdSqnmnO6L29ZLhVI1ym
 >>>>>>>>>>>>>>>>>>>>>   FILM REQUEST    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nancy_Ajram_signing_ceremony.jpg/330px-Nancy_Ajram_signing_ceremony.jpg" group-title="FILM REQUEST",ALE_🇲🇨
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Andrilight/Nonton/refs/heads/main/Al3.png" group-title="FILM REQUEST",ALE_🇲🇨
 https://raw.githubusercontent.com/Andrilight/Nonton/refs/heads/main/andrilight%20Entertainment.mp4
 
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w116_and_h174_face/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg" group-title="FILM REQUEST", ALIEN ROMULUS 2024
@@ -2751,35 +2860,42 @@ https://stream.hownetwork.xyz/yyy/cars-2-2011-bluray/6/480.m3u8
 #EXTINF:-1 type="" group-title="FILM REQUEST" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2017/07/film-cars-3-2017-1.jpg",Cars 3 (2017)
 https://stream.hownetwork.xyz/yyy/car-3-2017-bluray/6/480.m3u8
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast1.png" group-title="Film Request",The Fast and The Furious 2001
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast1.png" group-title="FILM REQUEST",The Fast and The Furious 2001
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/The%20Fast%20and%20Furious%202001.m3u8
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast3.png" group-title="Film Request",2 Fast 2 Furious 2003
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast3.png" group-title="FILM REQUEST",2 Fast 2 Furious 2003
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/2%20Fast%202%20Furious%202003.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg" group-title="Film Request", The Fast and the Furious: Tokyo Drift 2006
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg" group-title="FILM REQUEST", The Fast and the Furious: Tokyo Drift 2006
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/The%20Fast%20and%20the%20Furious%20Tokyo%20Drift%202006.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg" group-title="Film Request", Fast and Furious 2009
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg" group-title="FILM REQUEST", Fast and Furious 2009
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/Fast%20and%20Furious%202009.m3u8
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast6.png" group-title="Film Request",Fast Furious Five 2011
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/Fast%20Five%202011.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg" group-title="Film Request", Fast and Furious 6 2013
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg" group-title="FILM REQUEST", Fast and Furious 6 2013
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/Fast%20%26%20Furious%206%202013.m3u8
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast9.png" group-title="Film Request",Furious 7 2015
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/fast9.png" group-title="FILM REQUEST",Furious 7 2015
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/Furious%207%202015.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="Film Request", The Fate Of The Furious 2017
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="FILM REQUEST", The Fate Of The Furious 2017
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/The%20Fate%20of%20the%20Furious%202017.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.drakor.in/gambar/Rrmfxr2x.jpg" group-title="Film Request1",F9 Fast and Furious 9 : The Fast Saga 2021
+#EXTINF:-1 tvg-logo="https://cdn.drakor.in/gambar/Rrmfxr2x.jpg" group-title="FILM REQUEST",F9 Fast and Furious 9 : The Fast Saga 2021
 https://raw.githubusercontent.com/Andrilight/Film/refs/heads/main/F9%20The%20Fast%20Saga%202021.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/fashion-jobs.biz/wp-content/uploads/2023/05/1E5baAaEse26fej7uHcjOgEE2t2.jpg" group-title="Film Request",Fast X 2023
+#EXTINF:-1 tvg-logo="https://i0.wp.com/fashion-jobs.biz/wp-content/uploads/2023/05/1E5baAaEse26fej7uHcjOgEE2t2.jpg" group-title="FILM REQUEST",Fast X 2023
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/05/07/task1/9e9c7b2fa06358e6861c97d141f9a4a9/480p/index.m3u8
+
+
+
+
+
+======================== cccccttttt vvvvvvvvvvvvvv==============================================
+
 
 
 
