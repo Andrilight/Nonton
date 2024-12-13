@@ -3538,11 +3538,10 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/joss/134/musikindo720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nancy_Ajram_signing_ceremony.jpg/330px-Nancy_Ajram_signing_ceremony.jpg" group-title="Music Test",Nancy Ajram - Enta Eih
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/631px-MTV_Live_2021_logo.svg.png" group-title="Music Test",Nancy Ajram - Enta Eih
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
-https://vod3.cf.dmcdn.net/sec2(bRJ0AwzLc8sOeahyrYvz9aztgQOl-GdSqnmnO6L29ZLhVI1ymhMUFktLM53a4EFFPoL2ElU4XvuRWJIeaYi9_gLUELoS0hr05wwFfwWNYRgFBntFUTtT7nfyw-3XeLQE_COwT8gwG8ytIT38ycwsPf8cW-ez1KZNAcvzzzumaNI)/video/127/941/210149721_mp4_h264_aac_hq.m3u8
-
+https://streaming.indihometv.com/atm/hlsv3/MTV_LIVE/playlist.m3u8
 
 
 
