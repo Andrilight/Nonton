@@ -3613,10 +3613,10 @@ https://stream.hownetwork.xyz/yyy/silent-hill-2006-bluray/3/480.m3u8
 
 ======================== cccccttttt vvvvvvvvvvvvvv==============================================
 
-
-
-
 #EXTINF:-1 tvg-logo="https://www.gardaoto.com/wp-content/uploads/2022/04/Tempat-Wisata-Puncak-Terbaik-yang-Wajib-Kamu-Kunjungi.jpg" group-title="CCTV PUNCAK-GADOG",Puncak
+https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Waru_Jajar.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gardaoto.com/wp-content/uploads/2022/04/Tempat-Wisata-Puncak-Terbaik-yang-Wajib-Kamu-Kunjungi.jpg" group-title="CCTV PUNCAK-GADOG",Puncak pass
 https://atcs.cianjurkab.go.id:5443/LiveApp/streams/vid_cipanas_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Three_Surveillance_cameras.jpg" group-title="CCTV PUNCAK-GADOG",SP. GADOG 
