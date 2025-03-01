@@ -4120,26 +4120,7 @@ https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Waru_Jajar.m3u8
 #EXTINF:-1 tvg-logo="https://www.gardaoto.com/wp-content/uploads/2022/04/Tempat-Wisata-Puncak-Terbaik-yang-Wajib-Kamu-Kunjungi.jpg" group-title="CCTV PUNCAK-GADOG",Puncak pass
 https://atcs.cianjurkab.go.id:5443/LiveApp/streams/vid_cipanas_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Three_Surveillance_cameras.jpg" group-title="CCTV PUNCAK-GADOG",SP. GADOG 
-https://atcs-bptj.dephub.go.id/camera/gadog.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Three_Surveillance_cameras.jpg" group-title="CCTV PUNCAK-GADOG",SP. GADOG - Dari Arah Puncak
-https://atcs-bptj.dephub.go.id/camera/gadog_fix1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Three_Surveillance_cameras.jpg" group-title="CCTV PUNCAK-GADOG",TAMAN SAFARI 
-https://atcs-bptj.dephub.go.id/camera/taman_safari.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Three_Surveillance_cameras.jpg" group-title="CCTV PUNCAK-GADOG",RUAS TAMAN SAFARI - Arah Gadog
-https://atcs-bptj.dephub.go.id/camera/ruas_taman_safari_fix1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Three_Surveillance_cameras.jpg" group-title="CCTV PUNCAK-GADOG",RUAS TAMAN SAFARI - Arah Puncak
-https://atcs-bptj.dephub.go.id/camera/ruas_taman_safari_fix2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Three_Surveillance_cameras.jpg" group-title="CCTV PUNCAK-GADOG",RUAS JL RAYA PUNCAK (GADOG) FIX 1
-https://atcs-bptj.dephub.go.id/camera/ruas_raya_puncak_fix1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Three_Surveillance_cameras.jpg" group-title="CCTV PUNCAK-GADOG",RUAS JL RAYA PUNCAK (GADOG) FIX 2
-https://atcs-bptj.dephub.go.id/camera/ruas_raya_puncak_fix2.m3u8
 
 
 #EXTM3U billed-msg="Source Playlist Gratis Andri Light"
