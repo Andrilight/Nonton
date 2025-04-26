@@ -572,7 +572,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 
 
 
-
+==========================================================🎬Movies NoSub==================================================================
 
 
 #EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbo.png", HBO 
@@ -613,7 +613,40 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="Five.Star.Max.HDTV.(5MXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMax
+http://cord-cutter.net:8080/live/95549031/69361122/13381.m3u8
 
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",Cinemax
+http://cord-cutter.net:8080/live/95549031/69361122/13380.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
+http://cord-cutter.net:8080/live/95549031/69361122/21013.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",More Max
+http://cord-cutter.net:8080/live/95549031/69361122/17776.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MOVIEMAX
+http://cord-cutter.net:8080/live/95549031/69361122/13480.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMax
+http://cord-cutter.net:8080/live/95549031/69361122/21012.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",ThrillerMax
+http://cord-cutter.net:8080/live/95549031/69361122/17774.m3u8
+
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="STARZ.HD.(East).(STZHD).us" tvg-logo="https://docdog.top/Logotv/countries//starz.png",STARZ
+http://cord-cutter.net:8080/live/95549031/69361122/9299.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-logo="https://docdog.top/Logotv/countries//starzcinema.png",STARZ Cinema
+http://cord-cutter.net:8080/live/95549031/69361122/17775.m3u8
+
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzedge.png",STARZ Edge
+http://cord-cutter.net:8080/live/95549031/69361122/16143.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="STARZ.InBlack.(East).(STZ.B).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-in-black-us.png",STARZ In Black
+http://cord-cutter.net:8080/live/95549031/69361122/17779.m3u8
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>            NEWS          <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -833,6 +866,20 @@ https://insighttv-samsung-us.amagi.tv/playlist.m3u8
                                 Sport
 ===================================================================================================
 
+
+
+#EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/soccerch.png" group-title="🏆Sports",Soccer
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstars4.png" group-title="🏆Sports", SPORTSTARS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/bein1.png" group-title="🏆Sports",Bein 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
