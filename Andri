@@ -580,6 +580,14 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 
 ==========================================================🎬Movies NoSub==================================================================
 
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/brattv.png",Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/mytime.png",MyTime
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/moviesphere.png",Movie Sphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbo.png", HBO 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
