@@ -1,61 +1,74 @@
+
 #EXTM3U 
 
 
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbo.png" group-title="🎬Movies",HBO
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/100-HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbofam.png" group-title="🎬Movies",HBO Family
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbohits.png" group-title="🎬Movies",HBO Hits
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbosig.png" group-title="🎬Movies",HBO Signature
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/antv.png" group-title="🇮🇩Indonesia",ANTV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/antv.png" group-title="🇮🇩Indonesia",ANTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/807-ANTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/axn.png" group-title="🇮🇩Indonesia",AXN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/301-AXN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/antv.png" group-title="🇮🇩Indonesia",ANTV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/transtv.png" group-title="🇮🇩Indonesia",TransTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/800-TransTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/trans7.png" group-title="🇮🇩Indonesia",Trans7 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/trans7.png" group-title="🇮🇩Indonesia",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/801-Trans7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/indosiar.png" group-title="🇮🇩Indonesia",Indosiar 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/809-Indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/indosiar.png" group-title="🇮🇩Indonesia",KBSworld
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/323-KBSWorld/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/mnctv.png" group-title="🇮🇩Indonesia",MNCTV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/mnctv.png" group-title="🇮🇩Indonesia",MNCTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/812-MNCTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/rcti.png" group-title="🇮🇩Indonesia",RCTI 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/rcti.png" group-title="🇮🇩Indonesia",RCTI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/811-RCTI/index.m3u8
 
 
-http://202.150.165.66:8088/play/818-RTV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sctv.png" group-title="🇮🇩Indonesia",SCTV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/808-SCTV/index.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/thrill.png" group-title="🎬Movies",Thrill
+#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/Thrill.png" group-title="🎬Movies",Thrill
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://202.150.165.66:8088/play/109-Thrill/index.m3u8
 
@@ -67,7 +80,7 @@ http://202.150.165.66:8088/play/806-TvOne/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://202.150.165.66:8088/play/302-WarnerTV/index.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/zee.png" group-title="🇮🇩Indonesia",SCTV Zee
+#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/zee.png" group-title="🇮🇩Indonesia", Zee
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://202.150.165.66:8088/play/110-ZeeBioskop/index.m3u8
 
@@ -79,11 +92,12 @@ http://202.150.165.66:8088/play/321-tvN/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://202.150.165.66:8088/play/106-tvNMovies/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/cinemaworld.png" group-title="🎬Movies",CinemaWorld in
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/cinemaworld.png" group-title="🎬Movies",CinemaWorld
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.150.165.66:8088/play/105-CinemaWorld/index.m3u8
 
 
-https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/cm.png
+https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/ccm.png
 http://202.150.165.66:8088/play/108-Celestial/index.m3u8
 
 #EXTINF:-1 group-title="🎬Movies" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/bskpindo.png",Bioskop Indo
